@@ -1,6 +1,6 @@
 cask "clean-mind" do
-  version "1.2.0"
-  sha256 "752b866e1c5d38e9a7db509775da26cd3313c2cea02073707baf4eaf52691a83"
+  version "1.2.1"
+  sha256 "68d64d652fd85bcb7cb18df4dbac656379396b5d5009b823f9419e2de908d4a3"
 
   url "https://github.com/MS-Teja/clean-mind/releases/download/v#{version}/CleanMind-#{version}-macos.dmg",
       verified: "github.com/MS-Teja/clean-mind/"
